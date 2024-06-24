@@ -1,4 +1,4 @@
-# Swift-Bank-Management-System
+# Swift Bank Management System
 
 The management of customer accounts, balances, and deposits poses a complex and time-consuming challenge for banking institutions, with potential financial losses and reputational damage resulting from inadequate management. Banks face several obstacles when managing customer accounts, balances, and deposits including managing multiple accounts, large customer base,complex transactions, security risks etc.
 
